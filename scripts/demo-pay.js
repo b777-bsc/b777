@@ -1,0 +1,1 @@
+// Demo pay script placeholder

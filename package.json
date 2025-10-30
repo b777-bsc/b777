@@ -1,0 +1,9 @@
+{
+  "name": "b777",
+  "version": "1.0.0",
+  "description": "b777 Protocol MVP",
+  "scripts": {
+    "build": "hardhat compile",
+    "test": "hardhat test"
+  }
+}
